@@ -1,4 +1,5 @@
-﻿# Redux-Project
+# Redux-Project
+
 ![Screenshot_20230105_044553](https://user-images.githubusercontent.com/54092402/210767885-19891952-adf4-4dcb-bdb7-2c0896bf263c.png)
 ![Screenshot_20230105_044310](https://user-images.githubusercontent.com/54092402/210767895-c290cc37-ccf2-4634-9a3a-b885f622dd7c.png)
 ![Screenshot_20230105_043946](https://user-images.githubusercontent.com/54092402/210767902-0c7bf658-e943-4364-8318-25709717f5bd.png)
